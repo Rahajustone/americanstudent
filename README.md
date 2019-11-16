@@ -6,4 +6,9 @@ It customization of admin lte for simple education software.
 ```
 git clone --
 ```
+
+### Design
+![](screenshot/screenshot.gif)
+
 ### You may create by yourself pages
+	You may create page as much as you want
